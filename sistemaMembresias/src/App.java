@@ -2,7 +2,6 @@ import java.sql.*;
 import java.util.Scanner;
 import clases.*;
 import java.time.*;
-//Hola, saquen al ciscopher del equipo
 
 public class App{
     public static void main(String[] args) {
